@@ -1,0 +1,14 @@
+main{
+    background-color: aquamarine;
+    width: 500px;
+    margin: 0 auto;
+}
+
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+
+ul li{
+    color: red;
+}
